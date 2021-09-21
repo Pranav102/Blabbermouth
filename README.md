@@ -1,1 +1,1 @@
-# Authentication-Secrets
+made a web app made from scratch for all those people who can't keep a secret to themselves but you share this secret anonymously by using hashing password with bcrypt for maintaining anonymity so one knows who's secrets are being shared \\ Tech: NodeJS, MongoDB, Passport.js, OAuth, Bootstrap
